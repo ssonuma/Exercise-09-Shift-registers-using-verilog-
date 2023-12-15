@@ -62,13 +62,20 @@ RegisterNumber:212223220107
 ### CODING :
 ## SERIAL INPUT PARALLEL OUTPUT:![SIPO CODE](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/287d5e8b-000e-48f3-8571-46da7a06cfde)
 
-## PARALLEL INPUT PARALLEL OUTPUT:![PISO CODE](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/cdc5a30c-1754-4ee4-a785-8f70d448165c)
+## PARALLEL INPUT SERIAL OUTPUT :![PISO CODE](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/5c5decd2-b908-46a0-a407-781a7964e1b8)
+
+
+## PARALLEL INPUT PARALLEL OUTPUT:!![PIPO CODE](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/a24508cb-3dff-4286-8254-a7e58154dce8)
+
 
 
 ### RTL LOGIC  REGISTERS :
 ## SERIAL INPUT PARALLEL OUTPUT:![SIPO RTL](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/c58dc9fb-691d-477b-9a23-d72bcd625948)
 
-## PARALLEL INPUT PARALLEL OUTPUT:![PISO RTL](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/9a259958-579d-48b7-bc3c-3dbd56dd88eb)
+### PARALLEL INPUT SERIAL OUTPUT : ![PISO RTL](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/9a259958-579d-48b7-bc3c-3dbd56dd88eb)
+
+
+## PARALLEL INPUT PARALLEL OUTPUT:![PIPO RTL](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/b24fbc13-091a-4f0c-8376-c4bae4bbe5ec)
 
 
 
@@ -76,7 +83,10 @@ RegisterNumber:212223220107
 ### TIMING DIGRAMS FOR SHIFT REGISTERS :
 ## SERIAL INPUT PARALLEL OUTPUT:![SIPO TIME](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/a89acbd1-977d-4e00-b2a2-f5eb47a49c01)
 
-## PARALLEL INPUT PARALLEL OUTPUT:![PISO TIME](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/79877c4b-f681-4e23-9911-b3fb4cf01a85)
+## PARALLEL INPUT SERIAL OUTPUT:![PISO TIME](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/79877c4b-f681-4e23-9911-b3fb4cf01a85)
+
+## PARALLEL INPUT PARALLEL OUTPUT:![PIPO TIME](https://github.com/ssonuma/Exercise-09-Shift-registers-using-verilog-/assets/150653312/64db434c-6145-49dd-b120-8150f76ecedb)
+
 
 ### RESULTS : Implementation of PISO , PIPO, PISO using verilog program is done and its functionality is validated
 using their functional tables.
